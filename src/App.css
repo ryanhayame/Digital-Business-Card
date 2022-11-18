@@ -36,17 +36,18 @@ body {
   margin-bottom: 0px;
   margin-top: 6px;
   font-weight: 400;
-  font-size: 12.8px;
+  font-size: 13px;
   line-height: 15px;
   color: #F3BF99;
 }
 
-.info-h3 {
-  margin-top: 9px;
+.info-a {
+  margin-top: 10px;
   font-weight: 400;
   font-size: 11px;
   line-height: 15px;
   color: #F5F5F5;
+  text-decoration: none;
 }
 
 .info-buttons {
