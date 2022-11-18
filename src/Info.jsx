@@ -15,7 +15,7 @@ export default function Info() {
             <img src={Img1} className="image" />
             <h1 className="info-h1">Ryan Hayame</h1>
             <h2 className="info-h2">Software Developer</h2>
-            <h3 className="info-h3">ryanhayame.website</h3>
+            <h3 className="info-h3">ryanhayame.github.io/portfolio</h3>
             <div className="info-buttons">
                 <button id="email" onClick={getEmail}>
                     <div className="buttonText">
