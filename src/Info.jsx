@@ -14,7 +14,7 @@ export default function Info() {
         <nav className="info">
             <img src={Img1} className="image" />
             <h1 className="info-h1">Ryan Hayame</h1>
-            <h2 className="info-h2">Software Developer</h2>
+            <h2 className="info-h2">Full-Stack Software Developer</h2>
             <a className="info-a" href="https://ryanhayame.github.io/portfolio/index.html" target="_blank" rel="noopener noreferrer">
                 ryanhayame.github.io/portfolio
             </a>
