@@ -7,7 +7,7 @@ export default function Info() {
     }
 
     const getResume = () => {
-        window.open("https://drive.google.com/file/d/15BGghWd6spJ56MTGIFNuIl68A1KscvYA/view?usp=sharing", "_blank")
+        window.open("https://drive.google.com/file/d/1TxNh42Q2EYzd2pExA_s_Y3XsF_06Z417/view?usp=sharing", "_blank")
     }
 
     return (
